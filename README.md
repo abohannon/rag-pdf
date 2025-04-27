@@ -1,4 +1,4 @@
-# RAG Project: Local PDF Question-Answering System
+# RAG PDF: Local PDF Question-Answering System
 
 A powerful Retrieval-Augmented Generation (RAG) system that allows you to ask questions about technical PDFs without needing any specialized knowledge. This project uses:
 
